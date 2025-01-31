@@ -46,14 +46,12 @@ ChallengeSecretFriend/
 └── README.md           # Este arquivo
 ```
 
-### 🔗 Acesse o Projeto Online
-```md
 ## 🔗 Acesse o Projeto Online
 
 Você pode visualizar e testar o Amigo Secreto diretamente no navegador:
 
 👉 [Clique aqui para acessar o projeto online](https://challenge-secret-friend-ruddy.vercel.app)
-```
+
 
 ### 🤝 Contribuição
 ```md
