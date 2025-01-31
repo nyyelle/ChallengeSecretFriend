@@ -46,26 +46,21 @@ ChallengeSecretFriend/
 └── README.md           # Este arquivo
 ```
 
-## 🛠️ Como Executar o Projeto Localmente
+### 🔗 Acesse o Projeto Online
+```md
+## 🔗 Acesse o Projeto Online
 
-### Clone o Repositório:
-```bash
-git clone https://github.com/seu-usuario/amigo-secreto.git
+Você pode visualizar e testar o Amigo Secreto diretamente no navegador:
+
+👉 [Clique aqui para acessar o projeto online](https://challenge-secret-friend-ruddy.vercel.app)
 ```
 
-### Acesse a Pasta do Projeto:
-```bash
-cd amigo-secreto
-```
-
-### Abra o Projeto:
-- Abra o arquivo `index.html` no seu navegador.
-
-## 🤝 Contribuição
-
+### 🤝 Contribuição
+```md
 Contribuições são bem-vindas! Se você quiser melhorar este projeto, siga os passos abaixo:
-
+```
 1. Faça um **fork** do repositório.
+
 2. Crie uma **branch** para sua feature:
    ```bash
    git checkout -b feature/nova-feature
