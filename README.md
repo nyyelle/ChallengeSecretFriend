@@ -88,9 +88,3 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICEN
 
 Feito com ❤️ por **Janyelle**.
 
----
-### 📌 Dicas para Personalizar:
-- Substitua `[seu-usuario]` pelo seu nome de usuário do GitHub.
-- Adicione **screenshots ou GIFs** do projeto em funcionamento para tornar o README mais visual.
-- Se desejar, inclua um **link para o projeto online** (caso tenha hospedado em um serviço como GitHub Pages).
-
