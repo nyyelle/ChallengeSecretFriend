@@ -4,7 +4,6 @@
 let listaAmigos = [];
 
 function adicionarAmigo() {
-<<<<<<< HEAD
     if (verificarNome()) {
         atualizarLista();
         console.log('Nome adicionado com sucesso!');
@@ -88,17 +87,3 @@ function sortearAmigo() {
     let nomeEscolhido = document.getElementById('resultado');
     nomeEscolhido.innerHTML = `O amigo escolhido foi: ${resultadoNomeAmigo}`;
 }
-=======
-    let input = document.getElementById('amigo').value;
-
-    if (input == '') {
-        exibirTexto('p', 'Por favor, insira um nome.');
-    } else {
-        let nomeAmigo = document.querySelector('input').value;
-        listaAmigos.push(nomeAmigo);
-        console.log(listaAmigos);
-    }
-    console.log('Nome adicionado com sucesso!')
-    limparNome();
-}
->>>>>>> 5405bcaec7d6644d0bea4a66af68fd07493cc2eb
